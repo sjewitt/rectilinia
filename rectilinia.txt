@@ -3,7 +3,6 @@ Archive Maintainer : (special instructions if any)
 Update to : rectilinia.wad, rectilinia.txt
 Advanced engine needed : GZDoom
 Primary purpose : Single player
-===========================================================================
 Title : Rectilinia
 Filename : rectilinia.wad
 Release date : 26/04/2021
@@ -13,9 +12,7 @@ Other Files By Author : hellbreach.wad, belials_ruin.wad, crushdepth.wad, tubewo
 Misc. Author Info : Old git biker
 
 Description : a mini wad inspired by Minecraft. It's all square...
-
 Additional Credits to : 
-===========================================================================
 * What is included *
 
 New levels : 3
